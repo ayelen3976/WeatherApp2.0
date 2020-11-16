@@ -4,8 +4,10 @@
     -webkit-box-pack: center;
 }
 .carde{
-    width: 20% ;
-     margin: 1%;
+    text-transform: uppercase;
+    width: 20%;
+    margin: 1%;
+    background: linear-gradient(to right, #d2f6c5,#17a2b8);
 }
 @media (max-width: 660px) {
     .carde{
