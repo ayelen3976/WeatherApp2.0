@@ -1,4 +1,4 @@
-/* const Sequelize = require('sequelize')
+ const Sequelize = require('sequelize')
 const sequelize = new Sequelize('weather', 'postgres', 'postgres', {
     host: 'localhost', 
     dialect: 'postgres'
@@ -27,4 +27,4 @@ sequelize.authenticate()
 });
    
 
-module.exports = sequelize;  */ 
+module.exports = sequelize;  
