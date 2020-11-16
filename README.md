@@ -11,4 +11,4 @@ Crea una base de datos en PostgreSQL con el nombre "weather". Se crea con el sig
 Corre el comando npm install tanto en la carpeta "api" como en "client", y luego podras iniciar ambos utilizando "npm start" en cada una de las carpetas.
 
 -----------------
-Incompleto: todavia sigo viendo de como realizar el deploy con heroku, segui los pasos de la documentacion pero sigo un poco confusa y si le dedico un poco mas tiempo lo aprovecho para probar hacerlo con otro poyecto nuevo basico y ver videos.
+Incompleto: todavia sigo viendo de como realizar el deploy con heroku, segui los pasos de la documentacion pero sigo un poco confusa y si le dedico un poco mas de tiempo lo aprovecho para probar hacerlo con otro poyecto nuevo muy basico y ver videos.
