@@ -1,0 +1,15 @@
+/* .formweb{
+   
+}  */
+.nav{
+    justify-content: space-between;
+
+}
+@media (max-width: 660px) {
+    .nav{
+        display: block;
+
+    }
+    .form{
+        flex-flow: nowrap;}
+  }

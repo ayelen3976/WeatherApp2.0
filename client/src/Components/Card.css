@@ -1,0 +1,17 @@
+.Carde{
+    display: -webkit-box;
+    flex-wrap: wrap;
+    -webkit-box-pack: center;
+}
+.carde{
+    width: 20% ;
+     margin: 1%;
+}
+@media (max-width: 660px) {
+    .carde{
+        margin-top: 20%;
+        display: table-header-group;
+
+    }
+  
+  }
