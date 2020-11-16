@@ -1,22 +1,10 @@
-import React, {useState, useEffect} from 'react';
+import React from 'react';
 import { MapContainer, TileLayer} from 'react-leaflet'
 import 'leaflet/dist/leaflet.css'
-import axios from 'axios';
 import {Card} from 'react-bootstrap'
 import './Card.css'
 function Cards({clima}) {
-
-/* const [clima, setClima] = useState([])
-
-
- useEffect(()=> {
-   axios.get('http://localhost:4000/api/weather').then(response=>{ 
-            setClima(response.data)
-            console.log(clima)
-        }).catch(err =>{console.log(err)}
-        )},[]);  */
  
-   
  return(
 <div className='Carde'>   
 

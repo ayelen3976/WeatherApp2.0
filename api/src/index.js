@@ -5,8 +5,11 @@ const cors = require('cors');
 
 //inicializamos
 const app = express();
+
+
 //settings
 app.set('port', process.env.PORT || 4000);
+
 // middlewares
 app.use(express.urlencoded({ extended:false }));
 app.use(cors());

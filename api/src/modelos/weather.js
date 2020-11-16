@@ -1,4 +1,5 @@
 module.exports = (sequelize, Sequelize) =>{
+    //defino mi modelo que va a tener la tabla en mi base de datos
 const Weather = sequelize.define('weather', {
     id:{
         type: Sequelize.SMALLINT, primaryKey:true, autoIncrement:true },

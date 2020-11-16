@@ -1,4 +1,5 @@
- const Sequelize = require('sequelize')
+//Me paro en la carpeta config >> y haciendo >>> node postres.init.js <<< se crean las tablas 
+const Sequelize = require('sequelize')
 const sequelize = new Sequelize('weather', 'postgres', 'postgres', {
     host: 'localhost', 
     dialect: 'postgres'
