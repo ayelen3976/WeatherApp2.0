@@ -7,7 +7,7 @@ librerias que uilice en Api: express = para armar las rutas que me manda a la ba
 librerias que utilice en client:  axios= trae la informacion de mi api a mi frontend, react= para desarrollar interfaces con el client, react-leaflet= la utilice para poder crear mapas y renderizarlas en mi front y react-bootstrap= para darle un estilo mas presentable a mi pagina 
 
 <div align="center">
-	<img src="https://drive.google.com/file/d/1LjjvBsgcKi6SNUvu83z0_tXvP7A0EGAX/view?usp=sharing" width='50%'>
+	<img src="https://drive.google.com/file/d/1LjjvBsgcKi6SNUvu83z0_tXvP7A0EGAX/view?usp=sharing" width='60%'>
 </div> 
 ##  Instalar el proyecto
 Crea una base de datos en PostgreSQL con el nombre "weather". Se crea con el siguiente comando: CREATE DATABASE weather;
