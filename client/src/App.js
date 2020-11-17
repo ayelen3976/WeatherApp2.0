@@ -12,7 +12,7 @@ const [search, setSearch] = useState('')
     axios.get('http://localhost:4000/api/weather').then(response=>{ 
              setClima(response.data)
              console.log(clima)
-         }).catch(err =>{console.log(err)}
+         }).catch(err =>{console.log(err, 'este error')}
          )},[]); 
 //hacemos andar el searchbar para que me renderize las que busco segun el nombre
          const  filtered = clima.filter(clima =>{
