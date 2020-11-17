@@ -9,6 +9,9 @@ librerias que utilice en client:  axios= trae la informacion de mi api a mi fron
 <div align="center">
 	<img src="Captura%20de%20Pantalla%202020-11-16%20a%20la(s)%2016.13.45.png" width='60%'>
 </div> 
+<div align="center">
+	<img src="Captura%20de%20Pantalla%202020-11-17%20a%20la(s)%2016.27.15.png" width='60%'>
+</div> 
 
 ## Instalar el proyecto
 Crea una base de datos en PostgreSQL con el nombre "weather". Se crea con el siguiente comando: CREATE DATABASE weather;
