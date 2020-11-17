@@ -7,7 +7,7 @@ librerias que uilice en Api: express = para armar las rutas que me manda a la ba
 librerias que utilice en client:  axios= trae la informacion de mi api a mi frontend, react= para desarrollar interfaces con el client, react-leaflet= la utilice para poder crear mapas y renderizarlas en mi front. y react-bootstrap= para darle un estilo mas presentable a mi pagina 
 
 <div align="center">
-	<img src="Captura%20de%20Pantalla%202020-11-16%20a%20la(s)%2016.13.45.png" width='60%'>
+	<img src="Captura%20de%20Pantalla%202020-11-16%20a%20la(s)%2016.13.45.png" width='80%'>
 </div> 
 <div align="center">
 	<img src="Captura%20de%20Pantalla%202020-11-17%20a%20la(s)%2016.27.15.png" width='60%'>
